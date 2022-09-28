@@ -4,6 +4,7 @@
 -   (OPTIONAL) Change Description in `package.json`
 -   Change Name in `typedoc.json`
 -   Setup Replacements in `typedoc.json`
+-   Add `test` to `.gitignore`
 
 -   Write **Code** In `src`
 -   Write **Tests** In `test`
