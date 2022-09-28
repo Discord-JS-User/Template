@@ -6,6 +6,8 @@
 -   Setup Replacements in `typedoc.json`
 -   Add `test` to `.gitignore`
 
+-   Fill `README.md`
+
 -   Write **Code** In `src`
 -   Write **Tests** In `test`
 
