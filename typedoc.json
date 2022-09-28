@@ -2,7 +2,7 @@
 	"$schema": "https://typedoc.org/schema.json",
 	"entryPoints": ["./src"],
 	"out": "docs",
-	"name": "Discord.js User Template",
+	"name": "Discord.js User | Template",
 	"includeVersion": true,
 	"readme": "./README.md",
 	"commentStyle": "all",
