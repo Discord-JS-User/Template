@@ -15,8 +15,10 @@
 	"author": "TBHGodPro",
 	"license": "ISC",
 	"devDependencies": {
+		"@knodes/typedoc-plugin-code-blocks": "^0.23.1",
 		"prettier": "^2.7.1",
 		"typedoc": "^0.23.15",
+		"typedoc-plugin-replace-text": "^2.0.0",
 		"typescript": "^4.8.4"
 	}
 }
