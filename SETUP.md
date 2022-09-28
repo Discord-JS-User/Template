@@ -5,6 +5,7 @@
 -   Change Name in `typedoc.json`
 -   Setup Replacements in `typedoc.json`
 -   Add `test` to `.gitignore`
+-   add `SETUP.md` to `.gitignore`
 
 -   Fill `README.md`
 
