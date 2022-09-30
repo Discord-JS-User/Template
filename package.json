@@ -4,6 +4,7 @@
 	"description": "Fill with your own content",
 	"main": "dist/index.js",
 	"scripts": {
+		"init": "node init",
 		"test": "npm run build; echo 'Running Test\n\n'; node test/index.test.js",
 		"quickTest": "node test/index.test.js",
 		"build": "echo 'Compiling TypeScript\n'; rm -rf ./dist; npx tsc",

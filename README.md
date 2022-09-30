@@ -1,3 +1,3 @@
-# Discord.js User Template
+# Discord.js User | Template
 
 Fill with your own content

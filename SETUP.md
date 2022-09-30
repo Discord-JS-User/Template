@@ -1,13 +1,7 @@
 ## Setting Up
 
--   Change Name in `package.json`
--   (OPTIONAL) Change Description in `package.json`
--   Change Name in `typedoc.json`
--   Setup Replacements in `typedoc.json`
--   Add `test` to `.gitignore`
--   add `SETUP.md` to `.gitignore`
-
 -   Fill `README.md`
+-   Setup Docs Text Replacements in `typedoc.json`
 
 -   Write **Code** In `src`
 -   Write **Tests** In `test`

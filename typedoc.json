@@ -13,9 +13,9 @@
 		"inIncludedFiles": true,
 		"replacements": [
 			{
-				"pattern": "regex pattern",
-				"flags": "regex flags",
-				"replace": "replace with"
+				"pattern": "testRegex",
+				"flags": "gi",
+				"replace": "test regex replacement"
 			}
 		]
 	}

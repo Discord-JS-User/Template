@@ -2,4 +2,5 @@
 .github
 src
 test
+init.js
 SETUP.md
